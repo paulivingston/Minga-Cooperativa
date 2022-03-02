@@ -4,7 +4,6 @@
     font-size: 28px;
     font-family: "Zen_Kaku_Gothic_Antique";
     letter-spacing: 0.03em;
-    background-color: black;
 }
 
 body {
@@ -17,6 +16,7 @@ body {
 
 #index {
     background-image: none;
+    background-color: black;
 }
 
 /*empieza header*/
@@ -36,7 +36,6 @@ header {
     position: fixed;
     top: 0;
     left: 0;
-    z-index: 1;
 }
 
 .inicio {
